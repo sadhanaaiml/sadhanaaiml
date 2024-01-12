@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @sadhanaaiml
-
-- 🌱 I’m currently learning coding
-- 💞️ I’m looking to collaborate on learning new things
+- I am currently learning coding
 
 <!---
 sadhanaaiml/sadhanaaiml is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
